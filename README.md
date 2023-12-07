@@ -1,1 +1,1 @@
-# dbms_project
+#STUDENT MANAGEMENT SYSTEM
